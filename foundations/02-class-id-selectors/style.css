@@ -1,0 +1,19 @@
+.niceClass {
+    background-color: rgb(230, 98, 131);
+    font-family: 'Verdana', "DejaVu Sans", sans-serif;
+}
+
+.niceClass.nicerClass {
+    font-size: 24px;
+}
+
+#idOne {
+    color: rgb(0, 89, 255);
+    font-size: 36px;
+}
+
+#idTwo {
+    background-color: rgba(114, 240, 11, 0.842);
+    font-size: 24px;
+    font-weight: bold;
+}
